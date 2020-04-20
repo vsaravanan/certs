@@ -1,2 +1,2 @@
 # certs
-![Kode Kloud Docker course](./KodeKloudDocker?raw=true)
+![Kode Kloud Docker course](./KodeKloudDocker.jpg?raw=true)
